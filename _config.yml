@@ -12,8 +12,8 @@ include: ['_pages']
 layout: post
 permalink: /:categories/:title/
 
-url: https://www.stephan-wensel.de
-baseurl: /test/
+url: https://stephanwensel.github.io
+baseurl: /jbk/
 
 markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
